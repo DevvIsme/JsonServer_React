@@ -2,17 +2,30 @@
     "Account": [
         {
             "id": 1,
-            "name": "Dewisme",
+            "name": "Nguyễn Văn A",
             "mobile": "0123456789",
-            "username": "dat",
-            "password": "123"
+            "address": "Số 1 phố Hoàng Quốc Việt, quận Cầu Giấy, Hà Nội",
+            "email": "nguyenvana@gmail.com",
+            "username": "nva",
+            "password": "nva"
         },
         {
             "id": 2,
-            "name": "DatLaTa0",
-            "mobile": "0123456789",
-            "username": "dew",
-            "password": "123"
+            "name": "Trần Hải B",
+            "mobile": "0987654321",
+            "address": "Số 1, ngõ 1/2, phố Trần Cung, quận Nam Từ Liêm, Hà Nội",
+            "email": "btranhai@gmail.com",
+            "username": "thb",
+            "password": "thb"
+        },
+        {
+            "id": 3,
+            "name": "Phùng Văn C",
+            "mobile": "0246813579",
+            "address": "A305, chung cư ABCXYZ, quận Đá Đông, Hà Nộ",
+            "email": "pvc@gmail.com",
+            "username": "pvc",
+            "password": "pvc"
         }
      
     ]
